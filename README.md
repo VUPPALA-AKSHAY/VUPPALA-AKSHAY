@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm VUPPALA AKSHAY</h1>
 
+<p align="center">
+  <img src="type.gif.gif" alt="Typing animation" width="300" />
+</p>
+
 
 <h3 align="center">A passionate frontend developer.</h3>
 

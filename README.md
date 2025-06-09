@@ -15,7 +15,7 @@
 
 - Resume - **https://drive.google.com/file/d/1d9_mxrXlsf6eOe_Eh5K45Mdg4tFI2aU6/view?usp=sharing**
 
-- - 📫 How to reach me **akshay.dunny08@gmail.com**
+- 📫 How to reach me **akshay.dunny08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

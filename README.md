@@ -9,13 +9,13 @@
 
 - Project - Zerodha Clone [https://vuppala-akshay.github.io/akshayy.github.io/ZERCLNN.html](https://vuppala-akshay.github.io/akshayy.github.io/ZERCLNN.html)
 
-- 📫 How to reach me **akshay.dunny08@gmail.com**
-
 - Project - AI Code Debugger **https://ai-code-debugger-akshayy-2326.onrender.com/**
 
 - Project - Usability Hub [https://vuppala-akshay.github.io/akshayy.github.io/SEOweb.html](https://vuppala-akshay.github.io/akshayy.github.io/SEOweb.html)
 
 - Resume - **https://drive.google.com/file/d/1d9_mxrXlsf6eOe_Eh5K45Mdg4tFI2aU6/view?usp=sharing**
+
+- - 📫 How to reach me **akshay.dunny08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

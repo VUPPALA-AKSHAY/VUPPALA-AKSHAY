@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VUPPALA AKSHAY</h1>
 
 <p align="center">
-  <img src="type.gif.gif" alt="Typing animation" width="450" style="border-radius: 40px;" />
+  <img src="type.gif.gif" alt="Typing animation" width="450" style="border-radius: 400px;" />
 </p>
 
 </p>

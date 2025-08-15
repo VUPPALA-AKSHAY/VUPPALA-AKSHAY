@@ -19,7 +19,7 @@
 
 - Project - Usability Hub [https://vuppala-akshay.github.io/akshayy.github.io/SEOweb.html](https://vuppala-akshay.github.io/akshayy.github.io/SEOweb.html)
 
-- Resume - **https://drive.google.com/file/d/1d9_mxrXlsf6eOe_Eh5K45Mdg4tFI2aU6/view?usp=sharing**
+- Resume - **https://drive.google.com/file/d/1qV0cvQUh_XQRZjDVF_3WoIZs9nah1xHk/view?usp=drive_link**
 
 - 📫 How to reach me **akshay.dunny08@gmail.com**
 
